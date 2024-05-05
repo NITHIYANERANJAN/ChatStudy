@@ -136,15 +136,14 @@ if __name__ == '__main__':
 ```
 ## OUTPUT:
 CLIENT:
+
 ![image](https://github.com/NITHIYANERANJAN/ChatStudy/assets/144979351/4f3c3fa3-4808-4f3a-bafc-96cc21ff5c93)
 
 SERVER:
+
 ![image](https://github.com/NITHIYANERANJAN/ChatStudy/assets/144979351/219787ff-caa8-407c-bcd0-d0aaa46ccf65)
 
 
-
-
 ## Result:
-
 Thus the study on Client Server Chat Applications has been performed
 
