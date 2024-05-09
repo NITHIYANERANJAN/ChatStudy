@@ -135,11 +135,11 @@ if __name__ == '__main__':
     server_program()
 ```
 ## OUTPUT:
-CLIENT:
+## CLIENT:
 
 ![image](https://github.com/NITHIYANERANJAN/ChatStudy/assets/144979351/4f3c3fa3-4808-4f3a-bafc-96cc21ff5c93)
 
-SERVER:
+## SERVER:
 
 ![image](https://github.com/NITHIYANERANJAN/ChatStudy/assets/144979351/219787ff-caa8-407c-bcd0-d0aaa46ccf65)
 
